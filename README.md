@@ -1,3 +1,3 @@
-# Get_Course
+# Git_Course
  Repository For Work
 ## My Project Notes
